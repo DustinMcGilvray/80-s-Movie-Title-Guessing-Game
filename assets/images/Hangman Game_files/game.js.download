@@ -1,0 +1,38 @@
+
+var wins = 0;
+var lose = 0;
+var incorrectGuess = [];
+var guessesLeft = 12;
+var underScore = [];
+var correctGuess = [];
+var chosenMovieTitle = "";
+var titleCharacters = chosenMovieTitle.split("");
+
+//Movie Title Bank
+var movieTitle = [
+    "The Burbs", "The Neverending Story", "Flight of the Navigator", "Weird Science",
+    "Batteries Not Included", "Mac and Me", "Howard the Duck", "Ferris Buellers Day Off",
+    "The Money Pit", "Spaceballs", "Dirty Dancing", "The Princess Bride", "The Labyrinth",
+    "Top Gun", "Ghostbusters", "Major Leauge", "Filed of Dreams", "FireFox", "Iron Eagle",
+    "Red Dawn", "WarGames", "Real Genius", "Adventures in Babysitting", "Mystic Pizza",
+    "The Goonies", "Clue", "Stand By Me", "Back to the Future", "ET the Extra Terrestrial",
+    "Gremlins", "Indiana Jones and the Raiders of the Lost Ark", "The Karate Kid", "Die Hard",
+    "Footloose", "Caddyshack", "Bill and Teds Excellent Adventure", "Big", "Honey I Shrunk the Kids",
+    "Beetlejuice", "Ghostbusters Two", "Rain Man", "Lethal Weapon", "Batman", "National Lampoons Christmas Vacation",
+    "Crocodile Dundee", "Police Academy", "Short Circuit", "Who Framed Roger Rabbit", "Uncle Buck",
+    "When Harry Met Sally", "Overboard", "Scrooged", "The Great Outdoors", "Harry and the Hendersons",
+    "Parenthood"
+];
+
+//Game Start Function
+
+    // random Movie Title
+    chosenMovieTitle = movieTitle[Math.floor(Math.random() * movieTitle.length)];
+    console.log(chosenMovieTitle);
+    for (var i = 0; i < chosenMovieTitle.length; i++) {
+//Underscores
+        underScore[i] = "_";   
+    }
+    
+    
+//document.onkeyup

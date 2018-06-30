@@ -1,3 +1,73 @@
-header{
-    
+body { 
+    background-image: url("../images/movie_theater_background.jpg");
+    background-size: 2000px 1600px; 
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  
+    .h1 {
+        font-family: 'Dancing Script', cursive;
+        font-size: 36px;
+    }
+  
+
+.navbar {
+    background-color: black;
+    color: ghostwhite;
+  }
+
+.card {
+    background-color: rgba(0, 0, 0, 0.021);
+    color: ghostwhite;
+}
+
+.game-board {
+    width: 600px;
+    height: 275px;  
+    line-height: 300px;
+    margin: auto;
+}
+
+.movie-poster-card {
+    margin-top: 50px;
+    margin-left: 225px;
+}
+
+.col-md-3 {
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    margin-left: 500px; 
+    margin-top: 60px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.win-counter{
+    background-color: rgba(65, 5, 5, 0.507);
+
+}
+
+.lose-counter{
+    background-color: rgba(65, 5, 5, 0.507);
+}
+
+.guesses-remaining {
+    background-color: rgba(65, 5, 5, 0.507);
+}
+
+.remaining-guesses {
+    background-color: rgba(65, 5, 5, 0.507);
+   
+}
+
+.card-footer {
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;
+}
+
+.fixed-bottom {
+    font-family: 'Dancing Script', cursive;
 }
