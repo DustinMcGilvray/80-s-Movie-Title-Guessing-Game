@@ -4,3 +4,11 @@ This is a classic Word Guess Game based on 1980's Movie Titles. When the "Show T
 ## Link to the App
 ["Guess Away!"](https://dustinmcgilvray.github.io/Word-Guess-Game/)
 
+## Built With
+
+
+## Acknowledgements
+* I want to thank my wife Adrienne for her endless supply of Movie Title Names from the 1980's! 
+
+## Author
+* Dustin McGilvray
