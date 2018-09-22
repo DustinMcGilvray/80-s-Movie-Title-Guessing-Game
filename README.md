@@ -5,7 +5,7 @@ This is a classic Word Guess Game based on 1980's Movie Titles. When the "Show T
 ## Link to the App
 ["Guess Away!"](https://dustinmcgilvray.github.io/Word-Guess-Game/)
 
-## Built With
+## Crafted With
 * HTML5
 * CSS3
 * JavaScript
