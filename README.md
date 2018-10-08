@@ -8,12 +8,13 @@ This is a classic Word Guess Game based on 1980's Movie Titles. When the "Show T
 ## Crafted With
 * HTML5
 * CSS3
+* [Visual Studio Code](https://code.visualstudio.com/)
 * JavaScript
-* Bootstrap
-* Google Font
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Font](https://fonts.google.com/)
 
 ## Acknowledgements
-* I want to thank my wife Adrienne for her endless supply of Movie Title Names from the 1980's! 
+* Shout out to my wife, Adrienne, for her amazing knowledge of 1980's movie titles!
 
 ## Author
 * Dustin McGilvray
