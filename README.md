@@ -9,6 +9,8 @@ This is a classic Word Guess Game based on 1980's Movie Titles. When the "Show T
 * HTML5
 * CSS3
 * JavaScript
+* Bootstrap
+* Google Font
 
 ## Acknowledgements
 * I want to thank my wife Adrienne for her endless supply of Movie Title Names from the 1980's! 
