@@ -3,7 +3,7 @@ This is a classic Word Guess Game based on 1980's Movie Titles. When the "Show T
 
 ![Screen Shot](assets/images/wordGuessSS-one.jpg)
 ## Link to the App
-["Guess Away!"](https://dustinmcgilvray.github.io/Word-Guess-Game/)
+["Guess Away!"]( https://dustinmcgilvray.github.io/80s-Movie-Title-Guessing-Game/)
 
 ## Crafted With
 * HTML5
